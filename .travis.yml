@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
+env:
+  - CI=true
+# script:
+# 新版本在线打包会出错，本地打包
+#   - npm run build-storybook
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
+  # build 之前需要保留
+  keep_history: true
+  local_dir: storybook-static
+  on:
+    branch: master

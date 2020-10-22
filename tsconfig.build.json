@@ -1,0 +1,19 @@
+{
+  "compilerOptions": { // 编译选项
+    "outDir": "dist", // 输出目录
+    "module": "esnext", // es moudle
+    "target": "es5", // es5语法
+    "declaration": true, // 生成TS的声明文件（获取更好的代码提示）
+    "jsx": "react",//
+    "moduleResolution":"Node",// 使用node 的方式读取路径
+    "allowSyntheticDefaultImports": true,// 支持直接引入语法
+  },
+  "include": [
+    "src",// 编译目录
+  ],
+  "exclude": [ // 不希望被编译的
+    "src/**/*.test.tsx",
+    "src/**/*.stories.tsx",
+    "src/setupTests.ts",
+  ]
+}
