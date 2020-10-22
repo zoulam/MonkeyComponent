@@ -1,0 +1,13 @@
+.zoulam-trees-menu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 50%;
+  list-style: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: $tree-menu-background-color;
+  .isShow {
+    visibility: hidden;
+  }
+}

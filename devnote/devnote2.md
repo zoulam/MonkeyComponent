@@ -104,6 +104,8 @@ cd（持续交付）
 
 [官方地址](https://travis-ci.org/)
 
+​	需要sync账号，以及配置token
+
 ### 配置 （`.travis.yml`）
 
 **注：**默认使用`yarn`管理，如果不想使用就需要将 `yarn.lock`删除

@@ -384,6 +384,34 @@ input元素：accept（限制文件类型）、multiple（多文件））
 
 [drag测试的dataTransfer无法使用](https://github.com/testing-library/react-testing-library/issues/339)
 
+# 新增树形组件
+
+## 设计的思考
+
+### 组件属性
+
+```
+type fileType = "floder" | "file"
+
+interface treesProps {
+    icon?: IconProp;
+    /** 文件名 */
+    name: string;
+    /** 独一无二的标识 */
+    key: string;
+    /** 菜单类型 */
+    type: fileType;
+    /** 是否这个 */
+    collapsed: boolean;
+    /** children */
+    childrens?: treesProps[]
+}
+```
+
+
+
+# 新增级联组件
+
 # 学习CSS
 
 [css-tricks](https://css-tricks.com/)
