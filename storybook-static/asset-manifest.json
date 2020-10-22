@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/zoulam/MonkeyComponent/static/css/main.a70ff87f.chunk.css",
-    "main.js": "/zoulam/MonkeyComponent/main.2e38a6f73e605aaa7ce1.bundle.js",
-    "main.css.map": "/zoulam/MonkeyComponent/static/css/main.a70ff87f.chunk.css.map",
-    "main.js.map": "/zoulam/MonkeyComponent/main.2e38a6f73e605aaa7ce1.bundle.js.map",
-    "runtime~main.js": "/zoulam/MonkeyComponent/runtime~main.2e38a6f73e605aaa7ce1.bundle.js",
-    "runtime~main.js.map": "/zoulam/MonkeyComponent/runtime~main.2e38a6f73e605aaa7ce1.bundle.js.map",
+    "main.css": "/zoulam/MonkeyComponent/static/css/main.1928fe5a.chunk.css",
+    "main.js": "/zoulam/MonkeyComponent/main.7de7e8652d9f5675c577.bundle.js",
+    "main.css.map": "/zoulam/MonkeyComponent/static/css/main.1928fe5a.chunk.css.map",
+    "main.js.map": "/zoulam/MonkeyComponent/main.7de7e8652d9f5675c577.bundle.js.map",
+    "runtime~main.js": "/zoulam/MonkeyComponent/runtime~main.7de7e8652d9f5675c577.bundle.js",
+    "runtime~main.js.map": "/zoulam/MonkeyComponent/runtime~main.7de7e8652d9f5675c577.bundle.js.map",
     "vendors~main.css": "/zoulam/MonkeyComponent/static/css/vendors~main.f8f248a5.chunk.css",
-    "vendors~main.js": "/zoulam/MonkeyComponent/vendors~main.2e38a6f73e605aaa7ce1.bundle.js",
+    "vendors~main.js": "/zoulam/MonkeyComponent/vendors~main.7de7e8652d9f5675c577.bundle.js",
     "vendors~main.css.map": "/zoulam/MonkeyComponent/static/css/vendors~main.f8f248a5.chunk.css.map",
-    "vendors~main.js.map": "/zoulam/MonkeyComponent/vendors~main.2e38a6f73e605aaa7ce1.bundle.js.map",
+    "vendors~main.js.map": "/zoulam/MonkeyComponent/vendors~main.7de7e8652d9f5675c577.bundle.js.map",
     "iframe.html": "/zoulam/MonkeyComponent/iframe.html",
-    "precache-manifest.a811f10c96a49ae6af513ae1f722c981.js": "/zoulam/MonkeyComponent/precache-manifest.a811f10c96a49ae6af513ae1f722c981.js",
+    "precache-manifest.d2b93a9be3bd767aabc5a3fcbfd8ddd7.js": "/zoulam/MonkeyComponent/precache-manifest.d2b93a9be3bd767aabc5a3fcbfd8ddd7.js",
     "service-worker.js": "/zoulam/MonkeyComponent/service-worker.js",
-    "vendors~main.2e38a6f73e605aaa7ce1.bundle.js.LICENSE.txt": "/zoulam/MonkeyComponent/vendors~main.2e38a6f73e605aaa7ce1.bundle.js.LICENSE.txt"
+    "vendors~main.7de7e8652d9f5675c577.bundle.js.LICENSE.txt": "/zoulam/MonkeyComponent/vendors~main.7de7e8652d9f5675c577.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.2e38a6f73e605aaa7ce1.bundle.js",
+    "runtime~main.7de7e8652d9f5675c577.bundle.js",
     "static/css/vendors~main.f8f248a5.chunk.css",
-    "vendors~main.2e38a6f73e605aaa7ce1.bundle.js",
-    "static/css/main.a70ff87f.chunk.css",
-    "main.2e38a6f73e605aaa7ce1.bundle.js"
+    "vendors~main.7de7e8652d9f5675c577.bundle.js",
+    "static/css/main.1928fe5a.chunk.css",
+    "main.7de7e8652d9f5675c577.bundle.js"
   ]
 }

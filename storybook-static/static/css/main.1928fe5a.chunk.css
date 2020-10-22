@@ -790,5 +790,17 @@ main {
   .zoulam-progress-bar .color-dark {
     background-color: #343a40; }
 
+.zoulam-trees-menu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 50%;
+  list-style: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: #6c757d; }
+  .zoulam-trees-menu .isShow {
+    visibility: hidden; }
 
-/*# sourceMappingURL=main.a70ff87f.chunk.css.map*/
+
+/*# sourceMappingURL=main.1928fe5a.chunk.css.map*/
